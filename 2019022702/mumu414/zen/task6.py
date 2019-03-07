@@ -21,7 +21,5 @@ s={}
 for i in zen2:
     if zen2.count(i)>=1:
         s[i]=zen2.count(i)
-print(s)
-
-zen3 =zen2.count('better')
-print(zen3)
+# print(s)
+print(s['better'])
