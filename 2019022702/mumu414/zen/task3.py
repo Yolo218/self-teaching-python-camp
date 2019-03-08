@@ -18,7 +18,8 @@ dellist = []
 for index in list:
    if 'ea' in index:
       print(index)
-   else:dellist.append(index)
+   else:
+      dellist.append(index)
 
 
 # print(dellist)

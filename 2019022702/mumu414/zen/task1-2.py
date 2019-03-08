@@ -15,6 +15,4 @@ If the implementation is easy to explain, it may be a good idea. Namespaces are 
 
 print(zen.replace('better','worse'))
 
-zen=zen.upper()
-zen1=zen.lower()
-print(zen1)
+print(zen.swapcase())

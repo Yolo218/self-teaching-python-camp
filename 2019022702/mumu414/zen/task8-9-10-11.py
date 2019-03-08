@@ -11,7 +11,7 @@ print("转换为十六进制：",hex(num))
 
 
 s='hello world'
-print(s[3:9])
+print(s[2:8])
 
 
 i='hello world!'
